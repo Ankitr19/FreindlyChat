@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_c260d42666c65b344532b16e1725c85175c01e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_bba9b8a97e936a35687eeb18ff24bc86d3c3e69d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_bd1b1fe6e533ff7d9b0c944e452e0fb9ec968f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_48c0979930b1ac75cb3fdb557359e774284d61e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.1_6dd9621c0ffc2d521484aa0a2ba64ab22276444c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.1_f4545de51e875d812a4b7df114895c66073a5b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_455d18cc2502b1e8a2cd1552d932530e311d8683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_432d417228ca0b3f777701feeaf919a7ea5c52bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.1_a4525e723b8b552d7d45b313c0394da6358e0fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_3d32515852a7bd8ee985d41ddbda77f8280b4657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.1_edd96f2ab0ff85bc2ebecf7539d7074f17e5c022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_5e2d2d1eb57c7c32b1e5382e52aec62b00c32190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_47f4fafd860e3ae8a870e78a49088cf8207295cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_1f811388816fd76888372c9ce4abdb1d28be75cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_3dc048a307f0f30ae9164ce7f5f93e2c05403106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/glide-3.6.1_6b893adc6aa16dcf91b8249bc25c9b820934ddb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_a8217dff38fd1e9becc6f7a4e7f63485214a3392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.1_fb77d606541d519380efe98e92989633393792d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.1_ef696db6e561eedaa32f4bb3f02941161ff58c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_473f84129017fa2d8c0df328fc7291a3794c2b91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_7bbacc3548316adc0b624f26e058e4ec6413b856.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_ee11013c2c25579c488d56bc414f7e66170d5e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_ab2018050fc08c05660aca8d8cd0893cbd76e7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_60737b7af6fab33d6a20cb03863f7056cbbe571a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_0bd899ac6a062a598781ffbdfdb53eb863a40f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fe0dfee88b02df625c8257e02bad7f1b7b86a043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_df86dac5252e5e56320f70f3dd8b490e7154085b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_bd0b46ae30ed708c8125efc65df3c6b77f0f407a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_df80e4ad04bc12e5ed55b36f7b13aa99261b92b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_4cc57cf7a30d4db0411598b31f9abbbd52adae45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_df6dbdb523b5897b1bf5b7e70529513ca5e4f1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_5eb27a246f46c9ab416402b400afb71229e88b71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.1_5432547ede7bfd6dfe7e2905ec6f9b83a05b316b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_e9a7ba0b89316f0ceb509fe594217605300edbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.1_5a76067a6caf13c929d80506de6697f8cd7c770a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_c13b2a807276680ab78f093b1add0a69fd79b88a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.1_0c38b8cb1556ea1428d4534210f1d7b86ce486cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_d18af3425ae066341edb634810b48c619b322b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.1_d26d656d9bee30a6124e15c1e7503cfe69a59df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_b880791ca9f21db941fffb26d97592e14134c82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_72bd9608d57ca155fc5d508ee58e9fb1a4cc45e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/ankit/Desktop/AndroidAndFirebase/and-nd-firebase/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_c8c80cfc482914a6b3e889c8438c29842fe8c4cf.jar" />
+    </item>
+
+</items>
